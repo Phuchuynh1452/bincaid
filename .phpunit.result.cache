@@ -1,0 +1,1 @@
+{"version":1,"defects":{"binCaidTest::testAdd":7},"times":{"binCaidTest::testAdd":0.016,"binCaidTest::testMerchantAdd":0.019,"binCaidTest::testEnable":0.014,"binCaidTest::testIsEnable":0.015}}
